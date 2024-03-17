@@ -33,7 +33,9 @@ To use this implementation of Dijkstra's algorithm, follow these steps:
 
 # Example
 
-<img src="https://raw.githubusercontent.com/kainoa7/Dijkstra/main/assets/97155994/7d6349ca-2f0a-49f9-a561-9e17c8ead743.png" width="500" height="300">
+<img src="https://github.com/kainoa7/Dijkstra/assets/97155994/b844383f-83f5-4f8b-a06b-77d7cbdd7726" width="500" height="300">
+
+
 
 
 
