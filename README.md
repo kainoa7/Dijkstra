@@ -25,7 +25,7 @@ To use this implementation of Dijkstra's algorithm, follow these steps:
 6. The script will output the shortest distances from the specified start vertex to all other vertices in the graph.
 7. Additionally, it will display a visualization of the graph with the shortest paths using NetworkX and Matplotlib.
 
-## Dependencies
+## Requirements
 
 - Python 3.x
 - NetworkX
