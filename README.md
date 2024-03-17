@@ -31,6 +31,12 @@ To use this implementation of Dijkstra's algorithm, follow these steps:
 - NetworkX
 - Matplotlib
 
+#Example
+
+![Screenshot 2024-03-16 195627](https://github.com/kainoa7/Dijkstra/assets/97155994/7d6349ca-2f0a-49f9-a561-9e17c8ead743)
+
+
+
   
 
 
