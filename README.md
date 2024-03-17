@@ -35,6 +35,10 @@ To use this implementation of Dijkstra's algorithm, follow these steps:
 
 <img src="https://github.com/kainoa7/Dijkstra/assets/97155994/b844383f-83f5-4f8b-a06b-77d7cbdd7726" width="500" height="300">
 
+<img src="https://github.com/kainoa7/Dijkstra/assets/97155994/1310113e-6a8e-4c66-8519-91a62db6e386" width="500" height="300">
+
+
+
 
 
 
