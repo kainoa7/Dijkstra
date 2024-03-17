@@ -34,7 +34,6 @@ To use this implementation of Dijkstra's algorithm, follow these steps:
 # Example
 
 ＜img src="https://github.com/kainoa7/Dijkstra/assets/97155994/7d6349ca-2f0a-49f9-a561-9e17c8ead743" width="500" height="300"＞
-＜img src="https://github.com/kainoa7/Dijkstra/assets/97155994/91676512-6783-4016-b8e1-d4a559610e58" width="500" height="300"＞
 
 
 
